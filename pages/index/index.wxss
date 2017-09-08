@@ -1,0 +1,22 @@
+#map{
+position: relative;
+width: 100%;
+height: 100vh;
+}
+.ditu{
+width: 100%;
+height: 100%;
+  position: relative;
+}
+.dinbu{
+  width: 100%;
+  height: 45px;
+  line-height: 45px;
+  background: #eee;
+   position: relative;
+   text-align: center;
+   display: block
+}
+.dinbu image{
+  width: 40px;height: 40px; border-radius: 30px;position: absolute;left: 1rem;
+}
